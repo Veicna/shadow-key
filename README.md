@@ -14,5 +14,4 @@
 Clone the repository to your local machine:
 
 ```bash
-git clone [https://github.com/veicna/Shadow-Key.git](https://github.com/veicna/Shadow-Key.git)
-cd Shadow-Key
+git clone https://github.com/Veicna/shadow-key.git
