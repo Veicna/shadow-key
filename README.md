@@ -15,3 +15,4 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/Veicna/shadow-key.git
+python3 main.py
