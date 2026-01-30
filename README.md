@@ -1,4 +1,4 @@
-# Shadow-Key 🔐
+# Shadow-Key
 
 **Shadow-Key** is a lightweight, Python-based encryption tool designed to demonstrate the fundamentals of cryptography and string manipulation. It implements a custom shift cipher algorithm capable of handling alphanumeric characters and punctuation symbols.
 
